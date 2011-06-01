@@ -1,4 +1,11 @@
+/*
 
+I did a brute force approach.
+I found, manually, the move to make the least amount of moves and used this program to prove it.
+I go thorught my steps and them find alternate moves along the way to see if there a shorter path
+
+
+*/
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
@@ -9,6 +16,7 @@ using namespace std;
 
 int main()
 {
+	//variables
     gameboard b;
 	int count =0;
 	int attempts =0;
@@ -16,12 +24,15 @@ int main()
 	int dir = 0;
 	int moves = 0;
 
+	//set some random numbers
 	srand(time(NULL));
 
-	
+	//loop
 	while(true){
 
 		
+		//go through the moves a knight could move
+
 		dir = rand()%16;
 
 		if(attempts == 0){
