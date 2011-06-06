@@ -11,6 +11,9 @@ class gameboard{
           gameboard(); 
 
 		  bool win();
+
+		  void covered();
+
 		  bool emp(int z, int x);
 		  void reset();
           void display();

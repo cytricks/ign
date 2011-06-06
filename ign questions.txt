@@ -1,0 +1,31 @@
+1. How many pennies could you put on the Golden Gate Bridge without any of them overlapping? For this question, please write out each step in your thought process.
+
+*Note: this is for a rough estimate!!*
+* Find the width of the bridge – 27.4 meters
+* Find the length of the bridge – 2737.4 meters
+* Find the diameter of a penny - .019 meters
+* Find how many pennies would go along the width – (27.4/0.019) ~ 1442
+* Find how many pennies would go along the length – (2737.4/0.019) ~ 144074
+* Find how many pennies total for each row along the length for columns of the width (1442*144074) ~ 207754708 (Rough Estimate)
+
+
+
+
+ 
+2. Our images have a ratio of 16:9, and our design layouts have 12 pixel wide increments (there are no limits on height). Give examples of three image sizes that would have the 
+correct ratio and would fit the design layout.
+
+	192 by 108
+	384 by 216
+	576 by 324
+
+ 
+3. What is the minimum number of moves required for a knight to cover the entire chess board?
+Program code and graph is provided. It takes a minimum of 27 moves.
+4. Creatively prove to us that you meet our value - Fire - that this would be more than just a job to you, and that you are passionate about us.
+
+      IGN is awesome! IGN is my number one source for the latest game reviews and news. It’s warm and friendly attitude just resonates with me way more than any other video game related site I visit. Where else can we hear editor’s express their cold hard opinions on things in a very casual and none condescending way. IGN gives it to you straight up without holding anything back.
+
+   IGN needs me because I am a very motivated worker. I love video game and anything video game related. I am a self motivator and love to learn fun and interesting things. I am only 20 and I have been through some very though struggles and know how to focus and push through even when it is a very difficult road. I was paralyzed from the waist down from a spine injury and underwent surgery and a lot of physical therapy. Even when doctors and PTs told me they didn’t thing I would walk again I pushed through the excruciating nerve pain and proved them wrong. I have had tough times in my past and I have a long live to live, if I am faced with a problem you can bet I will let nothing stop me. 
+   
+   I really would love to work for IGN! The biggest name for game news and reviews that keeps getting bigger! I listen to most of the IGN’s podcast, have the IGN website as my homepage so I always know the latest news and follow most of the IGN review staff on twitter. I know I would be working on the engineering side of the site but helping improve something so awesome would be a real honor. I love you guys and I am willing to do anything to be a part of the IGN family.  

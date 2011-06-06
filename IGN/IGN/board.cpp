@@ -42,6 +42,25 @@ void gameboard::display(){
      
 }
 
+void gameboard::covered(){
+
+	int cover=0;
+
+	for(int x = 0; x<8 ; x++){
+         
+         for(int y = 0; y<8; y++){
+         
+                 if(board[x][y])
+					 cover++;
+                 
+         }    
+             
+     }
+
+	cout<<cover<<endl;
+
+}
+
 bool gameboard::emp( int z, int x){
 
 	return !(board[z][x]);
